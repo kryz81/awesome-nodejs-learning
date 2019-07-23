@@ -1,0 +1,12 @@
+{
+  "name": "awesome-nodejs-learning",
+  "version": "1.0.0",
+  "repository": "https://github.com/kryz81/awesome-nodejs-learning.git",
+  "author": "Kryz <k@kryz.dev>",
+  "scripts": {
+    "lint": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "0.10.0"
+  }
+}
