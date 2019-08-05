@@ -14,6 +14,7 @@
   - [Event Loop](#event-loop)
   - [Streams](#streams)
   - [Event System](#event-system)
+  - [Dependency Injection](#dependency-injection)
   - [Handling Errors](#handling-errors)
   - [Testing](#testing)
   - [Debugging](#debugging)
@@ -92,8 +93,16 @@
 - [How to code your own event emitter in Node.js](https://www.freecodecamp.org/news/how-to-code-your-own-event-emitter-in-node-js-a-step-by-step-guide-e13b7e7908e1/)
 - [Handling and dispatching events with Node.js](https://blog.logrocket.com/handling-and-dispatching-events-with-node-js/)
 
+## Dependency Injection
+
+- [Dependency injection in nodejs projects](https://blog.alejandrocelaya.com/2018/12/14/dependency-injection-in-nodejs-projects/)
+- [Dependency Injection in Node.js](https://blog.risingstack.com/dependency-injection-in-node-js/)
+- [Do I need Dependency Injection in Node.js?](https://stackoverflow.com/questions/9250851/do-i-need-dependency-injection-in-nodejs-or-how-to-deal-with)
+- [Node.js advanced pattern: Dependency Injection Container](https://isamatov.com/node-js-dependency-injection-container/)
+
 ## Handling Errors
 
+- [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 - [Error Management in Node.js Applications](https://blog.insiderattack.net/error-management-in-node-js-applications-e43198b71663)
 - [Error handling - The missing piece of your node.js architecture](https://softwareontheroad.com/error-handling-nodejs/)
 
