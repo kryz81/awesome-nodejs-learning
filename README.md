@@ -6,9 +6,10 @@
 
 - [Awesome Node.js Learning Resources](#awesome-nodejs-learning-resources)
   - [Contents](#contents)
+  - [(NEW) Node.js Certification](#new-nodejs-certification)
   - [Node.js History](#nodejs-history)
   - [Module System](#module-system)
-  - [Patterns, Antipatterns](#patterns-antipatterns)
+  - [Patterns, Anti-patterns, Best practices](#patterns-anti-patterns-best-practices)
   - [Reactor Pattern](#reactor-pattern)
   - [Node.js Internals](#nodejs-internals)
   - [Event Loop](#event-loop)
@@ -38,6 +39,10 @@
 
 ---
 
+## **(NEW)** Node.js Certification
+
+- [Node.js Certification: first impressions](https://dev.to/kryz/node-js-certification-first-impressions-21a1)
+
 ## Node.js History
 
 - [Original Node.js Presentation by Ryan Dahl](https://www.youtube.com/watch?v=ztspvPYybIY)
@@ -49,8 +54,10 @@
 - [Getting started with Node.js modules](https://adrianmejia.com/getting-started-with-node-js-modules-require-exports-imports-npm-and-beyond/)
 - [Requiring modules in Node.js: Everything you need to know](https://www.freecodecamp.org/news/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8/)
 
-## Patterns, Antipatterns
+## Patterns, Anti-patterns, Best practices
 
+- [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
+- **[The largest Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)**
 - [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
 - [9 Ways to Avoid Pitfalls Using Node.js](https://blog.avenuecode.com/9-ways-to-avoid-pitfalls-using-nodejs)
 
@@ -108,9 +115,12 @@
 
 ## Testing
 
+- **[Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)**
 - [Unit Testing Express Middleware Behavior](https://medium.com/@morrissinger/unit-testing-express-middleware-behavior-in-ecmascript-2015-f1641ebb8040)
 - [A testing guide for Express with request and response mocking/stubbing using Jest or sinon](https://codewithhugo.com/express-request-response-mocking/)
 - [Unit testing in Express with Promise-based Middleware and Controllers](https://codeburst.io/unit-testing-in-express-with-promise-based-middleware-and-controllers-7d3d59ae61f8)
+- [Testing streams: a primer](https://dev.to/cdanielsen/testing-streams-a-primer-3n6e)
+- [Please, stop playing with proxyquire](https://dev.to/thekashey/please-stop-playing-with-proxyquire-11j4)
 
 ## Debugging
 
@@ -132,6 +142,7 @@
 
 - [Learn how to handle authentication with Node using Passport.js](https://www.freecodecamp.org/news/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e/)
 - [Your Node.js authentication tutorial is (probably) wrong](https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46)
+- [You don't need passport.js - Guide to Node.js authentication](https://dev.to/santypk4/you-don-t-need-passport-js-guide-to-node-js-authentication-26ig)
 
 ## Websockets
 
@@ -139,11 +150,15 @@
 
 ## Node.js with docker
 
+- [Step-by-Step Guide to Setup Node With Docker](https://dev.to/itmayziii/step-by-step-guide-to-setup-node-with-docker-2mc9)
+
 ## Node.js with typescript
 
 ## Deployment
 
 ## Monitoring
+
+- [Top Node.js Metrics to Monitor](https://dev.to/sematext/top-node-js-metrics-to-monitor-1id5)
 
 ## Frameworks
 
@@ -158,6 +173,7 @@
 
 ## NPM
 
+- [What's what? - Package.json cheatsheet](https://dev.to/areknawo/what-s-what-package-json-cheatsheet-1g28)
 - [These NPM tricks will make you a pro](https://www.freecodecamp.org/news/10-npm-tricks-that-will-make-you-a-pro-a945982afb25/)
 - [NPM Task Running Techniques](https://medium.com/netscape/npm-task-running-techniques-15fe5b697f15)
 - [4 Solutions To Run Multiple Node.js or NPM Commands Simultaneously](https://itnext.io/4-solutions-to-run-multiple-node-js-or-npm-commands-simultaneously-9edaa6215a93)
