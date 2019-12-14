@@ -133,6 +133,7 @@
 ## Security
 
 - [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+- [OWASP Node Goat Tutorial: Fixing OWASP Top 10](https://nodegoat.herokuapp.com/tutorial)
 
 ## Logging
 
@@ -150,7 +151,9 @@
 
 ## Node.js with docker
 
+- [Docker and Node.js Best Practices from Bret Fisher at DockerCon](https://www.youtube.com/watch?v=Zgx0o8QjJk4)
 - [Step-by-Step Guide to Setup Node With Docker](https://dev.to/itmayziii/step-by-step-guide-to-setup-node-with-docker-2mc9)
+- [Node.js memory management in container environments](https://medium.com/the-node-js-collection/node-js-memory-management-in-container-environments-7eb8409a74e8)
 
 ## Node.js with typescript
 
