@@ -109,6 +109,7 @@
 
 ## Handling Errors
 
+- **[Error Management in Node.js Applications](https://dev.to/deepal/error-management-in-node-js-applications-3d2k)**
 - [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 - [Error Management in Node.js Applications](https://blog.insiderattack.net/error-management-in-node-js-applications-e43198b71663)
 - [Error handling - The missing piece of your node.js architecture](https://softwareontheroad.com/error-handling-nodejs/)
@@ -129,6 +130,8 @@
 ## Linting and formatting
 
 ## Optimizing Performance
+
+- [Deep Dive Into Worker Threads in Node.js](https://blog.insiderattack.net/deep-dive-into-worker-threads-in-node-js-e75e10546b11)
 
 ## Security
 
@@ -171,6 +174,7 @@
 ## Architecture and Project Structure
 
 - [Bulletproof node.js project architecture ](https://softwareontheroad.com/ideal-nodejs-project-structure/)
+- [Implementing Event Sourcing and CQRS pattern with MongoDB](https://dev.to/deepal/implementing-event-sourcing-and-cqrs-pattern-with-mongodb-enn)
 
 ## Native Modules
 
