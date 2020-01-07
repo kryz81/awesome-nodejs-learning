@@ -132,11 +132,14 @@
 ## Optimizing Performance
 
 - [Deep Dive Into Worker Threads in Node.js](https://blog.insiderattack.net/deep-dive-into-worker-threads-in-node-js-e75e10546b11)
+- [Monitoring Node.js: Watch Your Event Loop Lag!](https://davidhettler.net/blog/event-loop-lag/)
 
 ## Security
 
 - [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 - [OWASP Node Goat Tutorial: Fixing OWASP Top 10](https://nodegoat.herokuapp.com/tutorial)
+- [Why npm lockfiles can be a security blindspot for injecting malicious modules](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/)
+- [Understanding filesystem takeover vulnerabilities in npm JavaScript package manager](https://snyk.io/blog/understanding-filesystem-takeover-vulnerabilities-in-npm-javascript-package-manager/)
 
 ## Logging
 
