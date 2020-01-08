@@ -125,9 +125,15 @@
 
 ## Debugging
 
+- [The Absolute Easiest Way to Debug Node.js — with VS Code](https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad)
+- [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
 - [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/)
 
 ## Linting and formatting
+
+- [How to use ESLint in Node.js Applications?](https://hackernoon.com/how-to-use-eslint-in-node-js-applications-cc4b2298ce55)
+- [Why (and how) to use eslint in your project](https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7)
+- [NodeJS – Auto Lint & Format on Git Commit with Airbnb Style Guide](https://coffeencoding.com/nodejs-auto-lint-format-on-git-commit-with-airbnb-styleguide/)
 
 ## Optimizing Performance
 
@@ -143,7 +149,10 @@
 
 ## Logging
 
+- [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging)
+- [Logging: Best Practices for Node.JS Applications](https://blog.bitsrc.io/logging-best-practices-for-node-js-applications-8a0a5969b94c)
 - [Getting Started With morgan](https://alligator.io/nodejs/getting-started-morgan/)
+- [Node.js Logging Tutorial](https://stackify.com/node-js-logging/)
 
 ## Authentication
 
@@ -163,6 +172,9 @@
 
 ## Node.js with typescript
 
+- [Best Practices For Using TypeScript with Node.js](https://blog.bitsrc.io/best-practices-for-using-typescript-with-node-js-50907f8cc803)
+- [Setting Up a Node Project With Typescript](https://scotch.io/tutorials/setting-up-a-node-project-with-typescript)
+
 ## Deployment
 
 ## Monitoring
@@ -180,6 +192,10 @@
 - [Implementing Event Sourcing and CQRS pattern with MongoDB](https://dev.to/deepal/implementing-event-sourcing-and-cqrs-pattern-with-mongodb-enn)
 
 ## Native Modules
+
+- [Primer into NodeJS Native Modules](https://www.codementor.io/@andreiglingeanu/primer-into-nodejs-native-modules-ks0awzluk)
+- [The Future of Native Modules in Node.js](https://www.nearform.com/blog/the-future-of-native-modules-in-node-js/)
+- [Native Extensions for Node.js](https://medium.com/the-node-js-collection/native-extensions-for-node-js-767e221b3d26)
 
 ## NPM
 
