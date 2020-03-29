@@ -1,12 +1,14 @@
 # Awesome Node.js Learning Resources
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ---
 
 ## Contents
 
 - [Awesome Node.js Learning Resources](#awesome-nodejs-learning-resources)
   - [Contents](#contents)
-  - [(NEW) Node.js Certification](#new-nodejs-certification)
+  - [Node.js Certification](#nodejs-certification)
   - [Node.js History](#nodejs-history)
   - [Module System](#module-system)
   - [Patterns, Anti-patterns, Best practices](#patterns-anti-patterns-best-practices)
@@ -27,7 +29,6 @@
   - [Websockets](#websockets)
   - [Node.js with docker](#nodejs-with-docker)
   - [Node.js with typescript](#nodejs-with-typescript)
-  - [Deployment](#deployment)
   - [Monitoring](#monitoring)
   - [Frameworks](#frameworks)
   - [Architecture and Project Structure](#architecture-and-project-structure)
@@ -39,7 +40,7 @@
 
 ---
 
-## **(NEW)** Node.js Certification
+## Node.js Certification
 
 - [Node.js Certification: first impressions](https://dev.to/kryz/node-js-certification-first-impressions-21a1)
 
@@ -68,10 +69,10 @@
 
 ## Node.js Internals
 
-- [Crossing the JS/C++ Boundary — Advanced NodeJS Internals](https://blog.insiderattack.net/crossing-the-js-c-boundary-advanced-nodejs-internals-part-1-cb52957758d8)
+- [Crossing the JS/C++ Boundary — Advanced Node.js Internals](https://blog.insiderattack.net/crossing-the-js-c-boundary-advanced-nodejs-internals-part-1-cb52957758d8)
 - [Internals of Node- Advance node](https://medium.com/front-end-weekly/internals-of-node-advance-node-%EF%B8%8F-8612f6a957d7)
 - [https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
-- [Nodejs C++/JS Boundary: Crossing The Rubicon](https://blog.bitsrc.io/nodejs-c-js-boundary-crossing-the-rubicon-c9c5511907a2)
+- [Node.js C++/JS Boundary: Crossing The Rubicon](https://blog.bitsrc.io/nodejs-c-js-boundary-crossing-the-rubicon-c9c5511907a2)
 
 ## Event Loop
 
@@ -102,7 +103,7 @@
 
 ## Dependency Injection
 
-- [Dependency injection in nodejs projects](https://blog.alejandrocelaya.com/2018/12/14/dependency-injection-in-nodejs-projects/)
+- [Dependency injection in Node.js projects](https://blog.alejandrocelaya.com/2018/12/14/dependency-injection-in-nodejs-projects/)
 - [Dependency Injection in Node.js](https://blog.risingstack.com/dependency-injection-in-node-js/)
 - [Do I need Dependency Injection in Node.js?](https://stackoverflow.com/questions/9250851/do-i-need-dependency-injection-in-nodejs-or-how-to-deal-with)
 - [Node.js advanced pattern: Dependency Injection Container](https://isamatov.com/node-js-dependency-injection-container/)
@@ -133,7 +134,7 @@
 
 - [How to use ESLint in Node.js Applications?](https://hackernoon.com/how-to-use-eslint-in-node-js-applications-cc4b2298ce55)
 - [Why (and how) to use eslint in your project](https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7)
-- [NodeJS – Auto Lint & Format on Git Commit with Airbnb Style Guide](https://coffeencoding.com/nodejs-auto-lint-format-on-git-commit-with-airbnb-styleguide/)
+- [Node.js – Auto Lint & Format on Git Commit with Airbnb Style Guide](https://coffeencoding.com/nodejs-auto-lint-format-on-git-commit-with-airbnb-styleguide/)
 
 ## Optimizing Performance
 
@@ -150,7 +151,7 @@
 ## Logging
 
 - [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging)
-- [Logging: Best Practices for Node.JS Applications](https://blog.bitsrc.io/logging-best-practices-for-node-js-applications-8a0a5969b94c)
+- [Logging: Best Practices for Node.js Applications](https://blog.bitsrc.io/logging-best-practices-for-node-js-applications-8a0a5969b94c)
 - [Getting Started With morgan](https://alligator.io/nodejs/getting-started-morgan/)
 - [Node.js Logging Tutorial](https://stackify.com/node-js-logging/)
 
@@ -175,8 +176,6 @@
 - [Best Practices For Using TypeScript with Node.js](https://blog.bitsrc.io/best-practices-for-using-typescript-with-node-js-50907f8cc803)
 - [Setting Up a Node Project With Typescript](https://scotch.io/tutorials/setting-up-a-node-project-with-typescript)
 
-## Deployment
-
 ## Monitoring
 
 - [Top Node.js Metrics to Monitor](https://dev.to/sematext/top-node-js-metrics-to-monitor-1id5)
@@ -193,7 +192,7 @@
 
 ## Native Modules
 
-- [Primer into NodeJS Native Modules](https://www.codementor.io/@andreiglingeanu/primer-into-nodejs-native-modules-ks0awzluk)
+- [Primer into Node.js Native Modules](https://www.codementor.io/@andreiglingeanu/primer-into-nodejs-native-modules-ks0awzluk)
 - [The Future of Native Modules in Node.js](https://www.nearform.com/blog/the-future-of-native-modules-in-node-js/)
 - [Native Extensions for Node.js](https://medium.com/the-node-js-collection/native-extensions-for-node-js-767e221b3d26)
 
@@ -203,6 +202,7 @@
 - [These NPM tricks will make you a pro](https://www.freecodecamp.org/news/10-npm-tricks-that-will-make-you-a-pro-a945982afb25/)
 - [NPM Task Running Techniques](https://medium.com/netscape/npm-task-running-techniques-15fe5b697f15)
 - [4 Solutions To Run Multiple Node.js or NPM Commands Simultaneously](https://itnext.io/4-solutions-to-run-multiple-node-js-or-npm-commands-simultaneously-9edaa6215a93)
+- [Three Things You Didn't Know You Could Do with npm Scripts](https://www.twilio.com/blog/npm-scripts)
 
 ## Other
 
