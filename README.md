@@ -114,6 +114,7 @@
 - [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 - [Error Management in Node.js Applications](https://blog.insiderattack.net/error-management-in-node-js-applications-e43198b71663)
 - [Error handling - The missing piece of your node.js architecture](https://softwareontheroad.com/error-handling-nodejs/)
+- [Functional Error Handling with Express.js and DDD](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/functional-error-handling/)
 
 ## Testing
 
@@ -138,8 +139,10 @@
 
 ## Optimizing Performance
 
+- **[Five Misconceptions on How NodeJS Works](https://blog.insiderattack.net/five-misconceptions-on-how-nodejs-works-edfb56f7b3a6)**
 - [Deep Dive Into Worker Threads in Node.js](https://blog.insiderattack.net/deep-dive-into-worker-threads-in-node-js-e75e10546b11)
 - [Monitoring Node.js: Watch Your Event Loop Lag!](https://davidhettler.net/blog/event-loop-lag/)
+- [Node.js under a Microscope: CPU FlameGraph and FlameScope](https://shuheikagawa.com/blog/2018/09/16/node-js-under-a-microscope/)
 
 ## Security
 
@@ -147,6 +150,7 @@
 - [OWASP Node Goat Tutorial: Fixing OWASP Top 10](https://nodegoat.herokuapp.com/tutorial)
 - [Why npm lockfiles can be a security blindspot for injecting malicious modules](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/)
 - [Understanding filesystem takeover vulnerabilities in npm JavaScript package manager](https://snyk.io/blog/understanding-filesystem-takeover-vulnerabilities-in-npm-javascript-package-manager/)
+- [Understanding and implementing rate limiting in Node.js](https://blog.logrocket.com/rate-limiting-node-js/)
 
 ## Logging
 
