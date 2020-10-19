@@ -216,7 +216,7 @@
 
 ## Recommended Books
 
-- **[Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)** (must-read for every node.js dev)
+- **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com)** (must-read for every node.js dev)
 - [Node Cookbook](https://www.packtpub.com/catalogsearch/result/?q=node%20cookbook)
 
 ## Recommended courses
