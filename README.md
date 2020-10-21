@@ -222,3 +222,4 @@
 ## Recommended courses
 
 - [Node.js: Advanced Concepts](https://www.udemy.com/advanced-node-for-developers/)
+- [Beginner's Series to Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - 26 short videos to start coding with Node.js
