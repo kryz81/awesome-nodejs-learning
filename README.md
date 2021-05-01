@@ -29,6 +29,7 @@
   - [Websockets](#websockets)
   - [Node.js with docker](#nodejs-with-docker)
   - [Node.js with typescript](#nodejs-with-typescript)
+  - [Microservices](#microservices)
   - [Monitoring](#monitoring)
   - [Frameworks](#frameworks)
   - [Architecture and Project Structure](#architecture-and-project-structure)
@@ -174,11 +175,16 @@
 - [Docker and Node.js Best Practices from Bret Fisher at DockerCon](https://www.youtube.com/watch?v=Zgx0o8QjJk4)
 - [Step-by-Step Guide to Setup Node With Docker](https://dev.to/itmayziii/step-by-step-guide-to-setup-node-with-docker-2mc9)
 - [Node.js memory management in container environments](https://medium.com/the-node-js-collection/node-js-memory-management-in-container-environments-7eb8409a74e8)
+- [Learn Docker - DevOps with Node.js & Express](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
 
 ## Node.js with typescript
 
 - [Best Practices For Using TypeScript with Node.js](https://blog.bitsrc.io/best-practices-for-using-typescript-with-node-js-50907f8cc803)
 - [Setting Up a Node Project With Typescript](https://scotch.io/tutorials/setting-up-a-node-project-with-typescript)
+
+## Microservices
+
+- [My Favorite Microservice Design Patterns for Node.js](https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83)
 
 ## Monitoring
 
