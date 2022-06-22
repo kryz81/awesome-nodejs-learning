@@ -98,7 +98,7 @@
 
 ## Event System
 
-- [Event-Driven Programming in Node.js](https://alligator.io/nodejs/event-driven-programming/)
+- [Event-Driven Programming in Node.js](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
 - [How to code your own event emitter in Node.js](https://www.freecodecamp.org/news/how-to-code-your-own-event-emitter-in-node-js-a-step-by-step-guide-e13b7e7908e1/)
 - [Handling and dispatching events with Node.js](https://blog.logrocket.com/handling-and-dispatching-events-with-node-js/)
 
