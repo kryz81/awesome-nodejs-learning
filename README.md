@@ -152,6 +152,7 @@
 - [Why npm lockfiles can be a security blindspot for injecting malicious modules](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/)
 - [Understanding filesystem takeover vulnerabilities in npm JavaScript package manager](https://snyk.io/blog/understanding-filesystem-takeover-vulnerabilities-in-npm-javascript-package-manager/)
 - [Understanding and implementing rate limiting in Node.js](https://blog.logrocket.com/rate-limiting-node-js/)
+- [ReleaseRun](https://releaserun.com/) - Free browser-based tools for dependency CVE scanning, EOL detection, and security health checks across npm, PyPI, Go, Rust, Maven, and more. No install required.
 
 ## Logging
 
