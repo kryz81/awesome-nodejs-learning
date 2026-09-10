@@ -224,6 +224,7 @@
 
 - **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com)** (must-read for every node.js dev)
 - [Node Cookbook](https://www.packtpub.com/catalogsearch/result/?q=node%20cookbook)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source reference for TypeScript fundamentals and practical patterns.
 
 ## Recommended courses
 
