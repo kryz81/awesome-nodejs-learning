@@ -181,6 +181,7 @@
 
 - [Best Practices For Using TypeScript with Node.js](https://blog.bitsrc.io/best-practices-for-using-typescript-with-node-js-50907f8cc803)
 - [Setting Up a Node Project With Typescript](https://scotch.io/tutorials/setting-up-a-node-project-with-typescript)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book.
 
 ## Microservices
 
