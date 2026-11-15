@@ -62,6 +62,7 @@
 - **[The largest Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)**
 - [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
 - [9 Ways to Avoid Pitfalls Using Node.js](https://blog.avenuecode.com/9-ways-to-avoid-pitfalls-using-nodejs)
+- [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and hosted MCP server (`https://nostairsplease.com/mcp`).
 
 ## Reactor Pattern
 
